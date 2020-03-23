@@ -1,0 +1,11 @@
+{
+  "title": "Sensory data Access from React native",
+  "description": "The data has been updated to Thingspeak from Sensor",
+  "movies": [
+    { "id": "1", "soil_moisture": "85" },
+    { "id": "2", "soil_moisture": "88" },
+    { "id": "3", "soil_moisture": "86" },
+    { "id": "4", "soil_moisture": "87"},
+    { "id": "5", "soil_moisture": "90" }
+  ]
+}
